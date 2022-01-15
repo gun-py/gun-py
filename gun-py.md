@@ -20,7 +20,7 @@ Sibling Account: [GunH-colab](https://github.com/GunH-colab)
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=gun-py&row=1&no-bg=true)
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gun-py&show_icons=true&count_private=true&theme=great-gatsby) </br>
+![Gunjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gun-py&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gun-py&theme=great-gatsby&layout=compact)](https://github.com/gun-py)
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
