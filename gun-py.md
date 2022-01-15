@@ -5,7 +5,7 @@ I am a pre-final-year bachelor's undergraduate at IIT (ISM), Dhanbad. My main in
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
 
 - I’m currently learning ** Mern Stack, REST API, and MongoDB **
-- I’m looking to collaborate on Web Development Related Projects **
+- I’m looking to collaborate on applied AI Research Projects and also on cross-platform AI integration onto physical subsystems**
 - I’m looking for help with Mern **
 - 2021 Goals: To be profficient in MERN Stack :|
 - Fun fact: I love taking photos, playing video games.
@@ -83,8 +83,6 @@ I am a pre-final-year bachelor's undergraduate at IIT (ISM), Dhanbad. My main in
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
     
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="https://fb.com/hridoy.the.hazard10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
