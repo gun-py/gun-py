@@ -9,7 +9,7 @@ Sibling Account: [GunH-colab](https://github.com/GunH-colab)
 - Focused on **Artificial Intelligence, Data Science, Machine Learning, Deep Learning, NLP/NLU, Computer Vision, Applied Stats and Time Series Modelling**
 - I’m looking to collaborate on applied AI Research Projects and also on cross-platform AI integration onto physical subsystems**
 - I’m looking for help with Mern **
-- Upcoming Python Developer Intern @L&T, Applied Scientist Intern @Nielsen, Data Science Intern @Analytics Vidya
+- Upcoming **Python Developer Intern** @L&T, **Applied Scientist Intern** @Nielsen, **Data Science Intern** @Analytics Vidya
 - Fun fact: I love taking photos, playing video games.
 
 <p align="center">
