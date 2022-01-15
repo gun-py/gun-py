@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Gunjan (He/His)</h1>
+<h1 align="center">Gunjan Haldar(He/His)</h1>
 
 I am a pre-final-year bachelor's undergraduate at IIT (ISM), Dhanbad. My main interests lie in Data Science, Data Analysis, Machine Learning, Deep Learning, Computer Vision, NLP/NLU, Reinforcement Learning. Having participated in diverse hackathons ranging from college to international level and a handful of professional internships and a research fellowship under the Ministry of Coal, I want to apply the knowledge gathered from these experiences and help research and develop state-of-the-art solutions. Rather than AI and programming, I spend my time playing pc games, movies and series, animes, music (guitar, though out of practice).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gun-py" alt="gun-py" /> </p>
 
-- I’m currently learning ** Mern Stack, REST API, and MongoDB **
+- Focused on ** Artificial Intelligence, Data Science, Machine Learning, Deep Learning, NLP/NLU, Computer Vision, Applied Stats and Time Series Modelling **
 - I’m looking to collaborate on applied AI Research Projects and also on cross-platform AI integration onto physical subsystems**
 - I’m looking for help with Mern **
 - 2021 Goals: To be profficient in MERN Stack :|
