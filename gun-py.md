@@ -4,7 +4,7 @@ I am a pre-final-year bachelor's undergraduate at IIT (ISM), Dhanbad. My main in
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gun-py" alt="gun-py" /> </p>
 
-- Focused on ** Artificial Intelligence, Data Science, Machine Learning, Deep Learning, NLP/NLU, Computer Vision, Applied Stats and Time Series Modelling **
+- Focused on **Artificial Intelligence, Data Science, Machine Learning, Deep Learning, NLP/NLU, Computer Vision, Applied Stats and Time Series Modelling**
 - I’m looking to collaborate on applied AI Research Projects and also on cross-platform AI integration onto physical subsystems**
 - I’m looking for help with Mern **
 - 2021 Goals: To be profficient in MERN Stack :|
