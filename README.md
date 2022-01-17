@@ -8,10 +8,7 @@ Sibling Account: [GunH-colab](https://github.com/GunH-colab)
 
 - Focused on **Artificial Intelligence, Data Science, Machine Learning, Deep Learning, NLP/NLU, Computer Vision, Applied Stats and Time Series Modelling**
 - Upcoming **Python Developer Intern** @L&T, **Applied Scientist Intern** @Nielsen, **Data Science Intern** @Analytics Vidya
-- I’m looking to collaborate on applied AI Research Projects and also on cross-domain AI integration onto physical subsystems. Kaggle team colaboration or AI Paper publication is a plus
-- I’m
-
-- Fun fact: I love taking photos, playing video games.
+- I’m looking to collaborate on applied AI Research Projects and also on cross-domain AI integration onto physical subsystems. Kaggle team colaboration or AI Paper publication is a plus. Ping up.
 
 <p align="center">
     <a href="https://github.com/gun-py/github-readme-streak-stats">
