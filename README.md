@@ -1,6 +1,6 @@
 <h1 align="center">Gunjan Haldar (Him/His)</h1>
 
-I am a pre-final-year bachelor's undergraduate at IIT (ISM), Dhanbad. My main interests lie in Data Science, Data Analysis, Machine Learning, Deep Learning, Computer Vision, NLP/NLU, Reinforcement Learning. Having participated in diverse hackathons ranging from college to international level and a handful of professional internships and a research fellowship under the Ministry of Coal developing a generic algorithm to extract "Yield" time duration in realtime using DBSCAN1D, I want to apply the knowledge gathered from these experiences and help research and develop state-of-the-art solutions. Rather than AI and programming, I spend my time playing pc games, movies and series, animes, music (guitar, though out of practice).
+I am a pre-final-year undergraduate at IIT (ISM), Dhanbad. My main interests lie in Data Science, Data Analysis, Machine Learning, Deep Learning, Computer Vision, NLP/NLU, Reinforcement Learning. Having participated in diverse hackathons ranging from college to international level and a handful of professional internships and a research fellowship under the Ministry of Coal developing a generic algorithm to extract "Yield" time duration in realtime using DBSCAN1D, I want to apply the knowledge gathered from these experiences and help research and develop state-of-the-art solutions. Rather than AI and programming, I spend my time playing pc games, movies and series, animes, music (guitar, though out of practice).
 
 Sibling Account: [GunH-colab](https://github.com/GunH-colab)
 
