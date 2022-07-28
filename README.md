@@ -7,7 +7,7 @@ Sibling Account: [GunH-colab](https://github.com/GunH-colab)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gun-py" alt="gun-py" /> </p>
 
 - Focused on **Artificial Intelligence, Data Science, Machine Learning, Deep Learning, NLP/NLU, Computer Vision, Applied Stats and Time Series Modelling**
-- **Python Developer Intern** @L&T, **AI Fellow** @IISc, **Applied Scientist Intern** @Nielsen, **ex-CNN Architecture Intern** @Siemens, **ex-Freelancer** @Medium, **ex-Data Science Intern** @Analytics Vidya, **ex-AI R&D Fellowship** @Govt of India, Ministy of Coal, 
+- **Python Developer Intern** @L&T, **AI Fellow** @IISc, **Applied Scientist Intern** @Nielsen, **ex-Freelancer** @Medium, **ex-Data Science Intern** @Analytics Vidya, **ex-AI R&D Fellowship** @Govt of India, Ministy of Coal, 
 - I’m looking to collaborate on applied AI Research Projects and also on cross-domain AI integration onto physical subsystems. Kaggle team colaboration or AI Paper publication is a plus. Ping up.
 
 <p align="center">
